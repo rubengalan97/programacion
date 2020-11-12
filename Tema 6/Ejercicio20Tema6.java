@@ -1,4 +1,4 @@
-public class Ejercicio20Tema6 {
+public class Ejercicio14Tema6 {
   public static void main(String[] args) {
 
     int oportunidades = 5;
